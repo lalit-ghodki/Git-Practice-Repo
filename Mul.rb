@@ -6,7 +6,7 @@ class Mul
     end
 
     def mul
-        puts "Mul of #{@num1} and #{@num2} is #{@num1*@num2}"
+        puts "Multiplication of #{@num1} and #{@num2} is #{@num1*@num2}"
     end
     
 end
