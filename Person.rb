@@ -9,8 +9,8 @@ class Person
 
 end
 
-personOne = Person.new("rama", 26)
-personTwo = Person.new("Sita", 22)
+personOne = Person.new("Rama", 25)
+personTwo = Person.new("sita", 24)
 
 person_arr = [personOne, personTwo]
 
